@@ -1,5 +1,3 @@
-[Secure Password Hashed.pdf](https://github.com/user-attachments/files/28102219/Secure.Password.Hashed.pdf)
-[Web application vulnerabilities labs solved.pdf](https://github.com/user-attachments/files/28102212/Web.application.vulnerabilities.labs.solved.pdf)
 # 🛡️ K Siddartha
 
 **Cybersecurity Engineer | Offensive Security | Secure Systems Development**
@@ -77,7 +75,8 @@ I don't just break things. I build them too.
 
 **What it proves:** I can code security tools and understand cryptographic primitives.
 
-🔗 [Repository Link]
+🔗 Project Link: [Secure Password Hashed.pdf](https://github.com/user-attachments/files/28102607/Secure.Password.Hashed.pdf)
+
 
 ---
 
@@ -96,7 +95,8 @@ I don't just break things. I build them too.
 
 **What it proves:** I can manually identify and exploit OWASP Top 10 vulnerabilities.
 
-🔗 [Repository Link]
+🔗 Project Link: [Web vulnerabilities Labs Solved.pdf](https://github.com/user-attachments/files/28102644/Web.vulnerabilities.Labs.Solved.pdf)
+ 
 
 ---
 
