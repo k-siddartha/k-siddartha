@@ -41,8 +41,8 @@ I don't just break things. I build them too.
 |----------|--------|
 | **Languages** | Basic Python|
 | **Databases** | MySQL, SQLite |
-| **Security and attacking Tools** | Burp Suite, Nmap, Metasploit, Hashcat, Etherscan, Bruteforce attack, Dictionary attack, Wi-fi hacking|
-| **Reporting** | Structured security reports (20-24 pages) with PoC screenshots |
+| **Security and attacking Tools** | Burp Suite, Nmap, Metasploit, Hashcat, Etherscan, Brute force attacks, Dictionary attacks, Wi-fi hacking|
+| **Reporting** | I write clear, actionable security reports with PoC screenshots |
 
 ---
 
@@ -60,7 +60,7 @@ I don't just break things. I build them too.
 
 **What it proves:** I can implement enterprise security infrastructure from scratch.
 
-🔗 [Repository Link]
+🔗 *Under NDA — can discuss during interview*
 
 ---
 
@@ -111,7 +111,7 @@ I don't just break things. I build them too.
 
 **What it proves:** I can investigate real-world breaches and write professional security reports.
 
-🔗 [Repository Link]
+🔗 *Under NDA — can discuss during interview*
 
 ---
 
