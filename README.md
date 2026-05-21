@@ -1,3 +1,5 @@
+[Secure Password Hashed.pdf](https://github.com/user-attachments/files/28102219/Secure.Password.Hashed.pdf)
+[Web application vulnerabilities labs solved.pdf](https://github.com/user-attachments/files/28102212/Web.application.vulnerabilities.labs.solved.pdf)
 # 🛡️ K Siddartha
 
 **Cybersecurity Engineer | Offensive Security | Secure Systems Development**
