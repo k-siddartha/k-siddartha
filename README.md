@@ -120,7 +120,7 @@ I don't just break things. I build them too.
 | Role | Organization | Location | Status |
 |------|--------------|----------|--------|
 | Penetration Testing Intern | First Quadrate Labs | London, UK | **Current** |
-| Cybersecurity Trainee | BIA Institute | — | 4 months |
+| Cybersecurity Trainee | BIA Institute | Bangalore | 4 months |
 
 ---
 
@@ -128,7 +128,7 @@ I don't just break things. I build them too.
 
 | Credential | Institution |
 |------------|-------------|
-| BCA (Bachelor of Computer Applications) | — |
+| BCA (Bachelor of Computer Applications) | Shri Maatha Degree Collage |
 | Cybersecurity Training (Web, API, Network PT) | Boston Institute of Analytics (BIA) |
 
 ---
