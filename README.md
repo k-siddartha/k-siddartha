@@ -3,7 +3,7 @@
 **Cybersecurity Engineer | Offensive Security | Secure Systems Development**
 
 > *Currently: Penetration Testing Intern @ First Quadrate Labs, London*
-> *BCA Graduate | BIA Institute Cybersecurity Trainee (4 months)*
+> *BCA Graduate | BIA Institute Cybersecurity Trainee (10 months)*
 > *Currently open to work*
 ---
 
@@ -60,7 +60,7 @@ I don't just break things. I build them too.
 
 **What it proves:** I can implement enterprise security infrastructure from scratch.
 
-🔗 *Under NDA — can discuss during interview*
+🔗 Project Link: [Secure Password Management System — Documentation.pdf](https://github.com/user-attachments/files/28296423/Secure.Password.Management.System.Documentation.pdf)
 
 ---
 
