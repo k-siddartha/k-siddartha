@@ -61,7 +61,7 @@ I don't just break things. I build them too.
 **What it proves:** I can implement enterprise security infrastructure from scratch.
 
 🔗 Project Link: [Secure Password Management System — Documentation.pdf](https://github.com/user-attachments/files/28296423/Secure.Password.Management.System.Documentation.pdf)
-
+🔗 Repositorie Link(Copmlete Project explaination): https://github.com/k-siddartha/secure-password-management-system  
 ---
 
 ### 2. 🛡️ Secure Password Storage & Analysis Tool
