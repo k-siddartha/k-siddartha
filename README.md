@@ -2,7 +2,7 @@
 
 **Cybersecurity Engineer | Offensive Security | Secure Systems Development**
 
-> *Currently: Penetration Testing Intern @ First Quadrate Labs, London*
+> *Currently: Security Engineer Intern @ First Quadrate Labs, London*
 > *BCA Graduate | BIA Institute Cybersecurity Trainee (10 months)*
 > *Currently open to work*
 ---
